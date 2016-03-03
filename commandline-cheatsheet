@@ -1,0 +1,38 @@
+CTRL-c Stop current command
+CTRL-z Sleep program
+CTRL-a Go to start of line
+CTRL-e Go to end of line
+CTRL-r Search history
+UP Show last command
+>
+>>
+<
+|
+pwd
+mkdir
+cd
+ls
+grep
+less
+cp
+mv
+rm
+chmod
+4 read 
+2 write
+1 execute
+-R
+vi
+
+Maybe a little more about git commands
+init
+add
+commit (-a)
+status
+diff
+branch (-d, -D)
+checkout (-b)
+pull
+merge and rebase?
+reset?
+
